@@ -1,20 +1,3 @@
-
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
 document.addEventListener('DOMContentLoaded', function() {
     const BASE_URL = 'http://localhost:3000';
   
